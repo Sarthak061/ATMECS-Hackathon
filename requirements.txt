@@ -1,7 +1,7 @@
 numpy
 pandas
 datetime
-sktime==0.11.4
+sktime==0.33.1
 scikit-learn
 statsmodels
 pmdarima
