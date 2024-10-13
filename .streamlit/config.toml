@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#FF5733"   # Change this to your preferred primary color
+backgroundColor = "#1D1E22" # Dark background color
+secondaryBackgroundColor = "#2A2D31" # Color for sidebar and other components
+textColor = "#FFFFFF"       # Text color
+font = "sans serif"         # Font style (optional)
