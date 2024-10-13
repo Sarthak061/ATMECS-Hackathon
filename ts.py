@@ -70,14 +70,6 @@ st.markdown(
         z-index: 999990;
         display: none; /* Hides the element */
     }
-    @media (min-width: 576px) {
-        .st-emotion-cache-1jicfl2 {
-            padding-left: 5rem;
-            padding-right: 5rem;
-            top: unset;
-            padding-top: inherit;
-        }
-    }
     </style>
     """,
     unsafe_allow_html=True
