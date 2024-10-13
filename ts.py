@@ -654,8 +654,7 @@ with tab2:
     with st.container(border = True):
         st.subheader(f"Have any queries related to {choice_name}? Ask here!")
 
-        # api_key = st.secrets["google_api_key"]
-        api_key = "AIzaSyAEI2JWO9CMGWF5ZEI8EeAZzd6lRdTa9TE"
+        api_key = st.secrets["google_api_key"]
 
         if api_key:
             genai.configure(api_key=api_key)
