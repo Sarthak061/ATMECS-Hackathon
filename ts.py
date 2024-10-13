@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings("ignore")
 from PIL import Image
 
-st.set_page_config(page_title="Market Mentor", layout="wide", page_icon="📈")
+st.set_page_config(page_title="Market Mentor", page_icon="📈")
 # Custom styled navigation bar
 st.markdown("""
     <nav style="padding: 10px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
